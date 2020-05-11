@@ -1,0 +1,1711 @@
+var locations = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00006415_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "597MM962+2C",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          333.351,
+          -24.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00017D02_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "595HFWP6+C2",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          331.91,
+          -26.514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL000117BC_07_IF181S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "49P5CH99+J6",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          323.568,
+          -35.580999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000097FF_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "59MH7VP4+2C",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          331.856,
+          -16.715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B5BE_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "597V368C+2C",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          337.221,
+          -24.935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00010FE8_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "4CW5H8MR+6C",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          343.341,
+          -31.416999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000C2A5_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5G6P6CCF+C6",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.423,
+          -25.779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009BCF_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5H75PFQ7+J6",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.463,
+          -24.261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000C554_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5JH47J4J+RC",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.631,
+          -18.743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000147FB_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5HC6FQ62+22",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          -21.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0001EB32_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5JG6M2PJ+2R",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.032,
+          -19.315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0001EBA0_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "4MW3HJFJ+JR",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.632,
+          -31.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000177F9_07_IF164S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "6M5MQJGJ+2R",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.632,
+          -6.225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL000082E8_07_IF181S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "5MPR6VW8+2R",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.867,
+          -15.755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000C4D0_07_IF163S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "4PWCPM4C+CC",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.671,
+          -31.294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B573_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGQQR25+C6",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.808,
+          20.750999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000110B7_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGF6CFC+62",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.42,
+          20.223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009610_07_IF168S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9C8GVQ49+C6",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          350.76800000000003,
+          56.856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00018A06_07_IF167S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9F4QJ6QR+6R",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.242,
+          52.638000000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000C417_07_IF168S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9QFQRRR5+CJ",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.809,
+          59.841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000C16F_07_IF168S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9Q7XHMH4+JR",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657,
+          55.57899999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000ADA4_07_IF168S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9V7HJ9W4+CC",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.356,
+          55.646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00017AA1_07_IF168S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "9RR6C393+6J",
+        "PAPERS": "10.1029/2012JE004148",
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.054,
+          66.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000818D_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J79WW7W+6C",
+        "PAPERS": "10.1029/2009JE003338",
+        "PAPER_DOI": [
+          "10.1029/2009JE003338"
+        ],
+        "TITLE": [
+          "Spectrally distinct ejecta in Syrtis Major, Mars: Evidence for environmental change at the Hesperian-Amazonian boundary"
+        ],
+        "AUTHOR": [
+          "Skok, John R.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Wyatt, Michael B.",
+          "Ehlmann, Bethany L."
+        ],
+        "YEAR": [
+          "2010"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "115"
+        ],
+        "REFERENCE COUNT": [
+          44.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7J79WW7W+6C",
+          "7J4GG2R5+2J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.946,
+          15.913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009D02_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J4GG2R5+2J",
+        "PAPERS": "10.1029/2009JE003338",
+        "PAPER_DOI": [
+          "10.1029/2009JE003338"
+        ],
+        "TITLE": [
+          "Spectrally distinct ejecta in Syrtis Major, Mars: Evidence for environmental change at the Hesperian-Amazonian boundary"
+        ],
+        "AUTHOR": [
+          "Skok, John R.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Wyatt, Michael B.",
+          "Ehlmann, Bethany L."
+        ],
+        "YEAR": [
+          "2010"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "115"
+        ],
+        "REFERENCE COUNT": [
+          44.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7J79WW7W+6C",
+          "7J4GG2R5+2J"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.009,
+          12.54
+        ]
+      }
+    }
+  ]
+};
