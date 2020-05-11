@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PAPER_DOI": [
+          "10.1029/2009JE003338"
+        ],
+        "TITLE": [
+          "Spectrally distinct ejecta in Syrtis Major, Mars: Evidence for environmental change at the Hesperian-Amazonian boundary"
+        ],
+        "AUTHOR": [
+          "Skok, John R.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Wyatt, Michael B.",
+          "Ehlmann, Bethany L."
+        ],
+        "YEAR": [
+          "2010"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "115"
+        ],
+        "ABSTRACT": [
+          "Analysis of visible and near-infrared (VNIR) imaging spectrometer data of the Syrtis Major volcanic complex on Mars shows spectrally distinct ejecta (SDE) around a subset of the region's impact craters. We explore the nature of this spectral difference with the intention of constraining the physical cause of the distinction and the significance of their near random spatial distribution. Crater counting performed by Baratoux et al. (2007) indicated that the craters with SDE are systematically younger than craters without SDE. Extensive crater counts of the craters with SDE show that they fit a consistent Hartmann (2005) isochron indicting that they represent temporally continuous population. This population was dated near 2 Ga, consistent with the counts of Baratoux et al. (2007). This modeled age corresponds to just after the Hesperian-Amazonian boundary, indicating that it may be related to a global event. We explore possible explanations for the lack of SDE around older craters, including atmospheric changes, significant but brief regional emplacement of materials, and volcanic activity. We conclude that the preferred explanation is that the SDE represent the true composition of the Syrtis Major volcanics and that surfaces older than 2 Ga were altered by interactions with water vapor or volcanic gases under different Hesperian climatic and atmospheric conditions leading to all craters formed after this alteration event to display SDE. <P />"
+        ],
+        "REFERENCE": [
+          "1969JGR....74.4851A",
+          "1974JGR....79.4829A",
+          "1979JGR....84.8343S",
+          "1981LPICo.441..223S",
+          "1986JGR....91E.139T",
+          "1989Icar...77..358G",
+          "1989JGR....9413619M",
+          "1989Natur.341..591B",
+          "1990JGR....95.6955S",
+          "1991JGR....9622809C",
+          "1992JGR....97.7719C",
+          "1993Icar..102..185F",
+          "1993JGR....98.9075S",
+          "1995Sci...267.1623M",
+          "1997JGR...10225605M",
+          "1999JGR...104.8679M",
+          "2000Sci...287.1626B",
+          "2002JGRE..107.5035J",
+          "2002JGRE..107.5097B",
+          "2002JGRE..107.5121K",
+          "2003JGRE..108.5063I",
+          "2004JGRE..109.1004H",
+          "2004JGRE..109.2009P",
+          "2004SSRv..110...85C",
+          "2005Icar..174..294H",
+          "2005Natur.436...66H",
+          "2005Sci...307.1576B",
+          "2005Sci...307.1584L",
+          "2005Sci...307.1594M",
+          "2006JGRE..111.2S15F",
+          "2006JGRE..111.2S19H",
+          "2006P&SS...54..675B",
+          "2006suma.book.....C",
+          "2007GeoRL..3419201B",
+          "2007Icar..187..442K",
+          "2007JGRE..112.1003R",
+          "2007JGRE..112.5015M",
+          "2007JGRE..112.5S03M",
+          "2007JGRE..112.8S05B",
+          "2007JGRE..112.8S14P",
+          "2008Natur.454..305M",
+          "2008PhDT.......183K",
+          "2009Icar..201...69P",
+          "2009Icar..201...84P"
+        ],
+        "CITATION": [
+          "2011GeoRL..3815202F",
+          "2011P&SS...59..196W",
+          "2012ApJ...752....7H",
+          "2012GeoRL..3911202E",
+          "2012Icar..221..420F",
+          "2012JGRE..117.0J17C",
+          "2012JGRE..117.0J18S",
+          "2012JGRE..117.0J21G",
+          "2013GeCoA.115..137S",
+          "2013JGRE..118..487B",
+          "2013JGRE..118.1632C",
+          "2013SSRv..174..329E",
+          "2014E&PSL.404..261S",
+          "2014GeoRL..41.1890P",
+          "2014JGRE..119.1403V",
+          "2015JGRE..120..951F"
+        ],
+        "REFERENCE COUNT": [
+          44.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7J79WW7W+6C",
+          "7J4GG2R5+2J"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PAPER_DOI": [
+          "10.1029/2012JE004148"
+        ],
+        "TITLE": [
+          "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Tornabene, L. L.",
+          "Pan, C.",
+          "Rogers, D.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2012"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "117"
+        ],
+        "ABSTRACT": [
+          "The earliest formed crust on a single plate planet such as Mars should be preserved, deeply buried under subsequent surface materials. Mars' extensive cratering history would have fractured and disrupted the upper layers of this ancient crust. Large impacts occurring late in Martian geologic history would have excavated and exposed this deeply buried material. We report the compositional analysis of unaltered mafic Martian crater central peaks with high-resolution spectral data that was used to characterize the presence, distribution and composition of mafic mineralogy. Reflectance spectra of mafic outcrops are modeled with the Modified Gaussian Model (MGM) to determine cation composition of olivine and pyroxene mineral deposits. Observations show that central peaks with unaltered mafic units are only observed in four general regions of Mars. Each mafic unit exhibits spectrally unmixed outcrops of olivine or pyroxene, indicating dunite and pyroxenite dominated compositions instead of basaltic composition common throughout much of the planet. Compositional analysis shows a wide range of olivine Fo# ranging from Fo<SUB>60</SUB> to Fo<SUB>5</SUB>. This variation is best explained by a high degree of fractionation in a slowly cooling, differentiating magma body. Pyroxene analysis shows that all the sites in the Southern Highlands are consistent with moderately Fe-rich, low-Ca pyroxene. Mineral segregation in the ancient crust could be caused by cumulate crystallization and settling in a large, potentially global, lava lake or near surface plutons driven by a hypothesized early Martian mantle overturn. <P />"
+        ],
+        "REFERENCE": [
+          "1964SurSc...2..252A",
+          "1970GeCAS...1..965W",
+          "1973GeCoA..37..755B",
+          "1974JGR....79.1615N",
+          "1974JGR....79.4829A",
+          "1979JGR....84.8033S",
+          "1979LPI....10....1A",
+          "1982RvGSP..20..219T",
+          "1985LPI....16..158C",
+          "1986JGR....9111641C",
+          "1986RSEnv..20..209G",
+          "1987JGR....9211457K",
+          "1989icgp.book.....M",
+          "1989Natur.341..591B",
+          "1990AmMin..75...46W",
+          "1990JGR....95.6955S",
+          "1991JGR....9622809C",
+          "1992JGR....97.7719C",
+          "1992ssen.book.....T",
+          "1993JGR....98.9075S",
+          "1993macf.book.....B",
+          "1994Metic..29..214M",
+          "1995Natur.375..747K",
+          "1997JGR...102.5251B",
+          "1998JGR...10313675S",
+          "1998JPet...39...29W",
+          "2000Sci...287.1626B",
+          "2001M&PS...36.1587H",
+          "2001Natur.412..411M",
+          "2001SSRv...96..105N",
+          "2002JGRE..107.5003H",
+          "2002JGRE..107.5127R",
+          "2002M&PS...37....7M",
+          "2002Natur.417..263W",
+          "2003JGRE..108.5083L",
+          "2003M&PS...38.1713B",
+          "2003Sci...302..627H",
+          "2004JGRB..109.2201P",
+          "2004JGRE..10910008B",
+          "2004Sci...305..794S",
+          "2004SSRv..110...85C",
+          "2005GeoRL..3214201F",
+          "2005JGRE..110.5010R",
+          "2005JGRE..11012S01E",
+          "2005Sci...307.1594M",
+          "2006GGG.....7.8001C",
+          "2006JGRE..111.2S10M",
+          "2006JGRE..111.2S11S",
+          "2006Sci...312..400B",
+          "2007GeoRL..3410204R",
+          "2007Icar..187..442K",
+          "2007JGRE..112.1003D",
+          "2007JGRE..112.5S02M",
+          "2007JGRE..112.5S03M",
+          "2007JGRE..112.5S04M",
+          "2007JGRE..112.8S03M",
+          "2007JGRE..112.8S05B",
+          "2007JGRE..112.8S14P",
+          "2007M&PS...42..235K",
+          "2007Natur.450..525D",
+          "2007Sci...316..738S",
+          "2008E&PSL.266..105B",
+          "2008JGRE..113.0A24K",
+          "2008JGRE..113.5001K",
+          "2008JGRE..11310001T",
+          "2008JGRE..11311003E",
+          "2008JGRE..11312S33A",
+          "2008M&PS...43.1591K",
+          "2008Natur.453.1212A",
+          "2008P&SS...56.1030M",
+          "2008Sci...320.1063S",
+          "2009Icar..201...69P",
+          "2009Icar..203..437R",
+          "2009JGRE..114.0D08E",
+          "2009JGRE..114.0D12M",
+          "2009JGRE..114.9001C",
+          "2009NatGe...2..548D",
+          "2009P&SS...57..809M",
+          "2010Icar..205..396L",
+          "2010Icar..210....8I",
+          "2010JGRE..115.0D14S",
+          "2010JGRE..115.7005S",
+          "2010M&PS...45.1152T",
+          "2010Sci...328..347L",
+          "2011E&PSL.310...59F",
+          "2011GeoRL..3815202F",
+          "2011Icar..213..404C",
+          "2011JGRE..116.0F23R",
+          "2011JGRE..116.0G11I",
+          "2011LPI....42.1617C",
+          "2011Natur.472..338B"
+        ],
+        "CITATION": [
+          "2012JGRE..117.0J21G",
+          "2013JGRE..118..916W",
+          "2013JGRE..118..994T",
+          "2013JGRE..118.1632C",
+          "2014AREPS..42..291E",
+          "2014E&PSL.404..261S",
+          "2014JGRE..119.1403V",
+          "2015Geo....43..635C",
+          "2015Icar..252..255D",
+          "2015JGRE..120..662P",
+          "2015JGRE..120.2293S",
+          "2016JGRE..121.1927E",
+          "2016Litho.254...36S",
+          "2017Icar..281..228C",
+          "2017Icar..284..284H",
+          "2017Icar..293...66B",
+          "2017JGRE..122..839F",
+          "2018RSPTA.37680109S",
+          "2018SSRv..214...18T",
+          "2020JGRE..12506011B"
+        ],
+        "REFERENCE COUNT": [
+          91.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "597MM962+2C",
+          "595HFWP6+C2",
+          "49P5CH99+J6",
+          "59MH7VP4+2C",
+          "597V368C+2C",
+          "4CW5H8MR+6C",
+          "5G6P6CCF+C6",
+          "5H75PFQ7+J6",
+          "5JH47J4J+RC",
+          "5HC6FQ62+22",
+          "5JG6M2PJ+2R",
+          "4MW3HJFJ+JR",
+          "6M5MQJGJ+2R",
+          "5MPR6VW8+2R",
+          "4PWCPM4C+CC",
+          "7JGQQR25+C6",
+          "7JGF6CFC+62",
+          "9C8GVQ49+C6",
+          "9F4QJ6QR+6R",
+          "9QFQRRR5+CJ",
+          "9Q7XHMH4+JR",
+          "9V7HJ9W4+CC",
+          "9RR6C393+6J"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PAPER_DOI": [
+          "10.1038/ngeo990"
+        ],
+        "TITLE": [
+          "Silica deposits in the Nili Patera caldera on the Syrtis Major volcanic complex on Mars"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Ehlmann, B. L.",
+          "Milliken, R. E.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2010"
+        ],
+        "JOURNAL": [
+          "Nature Geoscience"
+        ],
+        "VOLUME": [
+          "3"
+        ],
+        "ABSTRACT": [
+          "The martian surface features abundant volcanoes and evidence for past liquid water. Extant or relict martian volcanic hydrothermal systems have therefore been sought in the pursuit of evidence for habitable environments. The Mars Exploration Rover, Spirit, detected deposits highly enriched in silica with accessory minerals, suggesting formation by hydrothermal leaching of basaltic rocks by low-pH solutions. However, extensive erosion has obscured the context of the formation environment of these deposits. Silica deposits have also been identified remotely, but also with limited contextual clues to their formation; aqueous alteration products of basalt and volcanic ash are the most likely sources. Here we report the detection from orbit of hydrated silica deposits on the flanks of a volcanic cone in the martian Syrtis Major caldera complex. Near-infrared observations show dozens of localized hydrated silica deposits. As a result of the morphology of these deposits and their location in and around the cone summit, we suggest that the deposits were produced by a volcanically driven hydrothermal system. The cone and associated lava flows post-date Early Hesperian volcano formation. We conclude that, if a relict hydrothermal system was associated with the silica deposits, it may preserve one of the most recent habitable microenvironments on Mars. <P />"
+        ],
+        "REFERENCE": [
+          "1964SurSc...2..252A",
+          "1982JGR....8710169S",
+          "1997JGR...10225605M",
+          "1999JGR...10426977F",
+          "2003Geo....31..315M",
+          "2004ESRv...66....1R",
+          "2004GeoRL..3124701G",
+          "2004JGRE..109.1004H",
+          "2004JGRE..109.5003T",
+          "2005Natur.436..504C",
+          "2006Geo....34..921S",
+          "2006PhDT.......141M",
+          "2007JGRE..112.1003R",
+          "2008Geo....36..847M",
+          "2008Icar..198..331P",
+          "2008Sci...320.1063S"
+        ],
+        "CITATION": [
+          "2011AsBio..11..499B",
+          "2011JGRE..116.1001W",
+          "2012AsBio..12..586K",
+          "2012Icar..218...88B",
+          "2012JGRE..117.6007S",
+          "2012JGRE..117.8003O",
+          "2012JGRE..11710007M",
+          "2012LPI....43.1096K",
+          "2012P&SS...72...18M",
+          "2012P&SS...72...78K",
+          "2013Icar..223..499R",
+          "2013Icar..223..633S",
+          "2013Icar..226..487S",
+          "2013Icar..226.1489B",
+          "2013JGRE..118....1H",
+          "2013JGRE..118..831C",
+          "2013JGRE..118.1632C",
+          "2013JGRE..118.2213M",
+          "2013LPI....44.3065W",
+          "2013P&SS...87..130W",
+          "2014AREPS..42..291E",
+          "2014GeoRL..41.8744W",
+          "2014JGRE..119.1403V",
+          "2014JVGR..286...41C",
+          "2014LPI....45.1543G",
+          "2014LPI....45.2172H",
+          "2015AsBio..15..998W",
+          "2015E&PSL.415..200B",
+          "2015GeoRL..42.2619R",
+          "2015GSLSP.401....1P",
+          "2015Icar..260..141B",
+          "2015JGRE..120..951F",
+          "2015M&PS...50.1362L",
+          "2016A&ARv..24...15M",
+          "2016JGRE..121..273S",
+          "2016JGRE..121..805W",
+          "2016JGRE..121.1321K",
+          "2016JGRE..121.1927E",
+          "2016LPI....47.2416S",
+          "2016MiMic..22S1806L",
+          "2016PASP..128a8004V",
+          "2017AsBio..17..363H",
+          "2017E&PSL.473..122B",
+          "2017GeoRL..44.6579T",
+          "2017Icar..281..228C",
+          "2017IJSTA..10.3722M",
+          "2017P&SS..138...55C",
+          "2018AmMin.103...11Y",
+          "2018AsBio..18..431S",
+          "2018AsBio..18..923H",
+          "2018E&PSL.498....1F",
+          "2018GeoRL..4510221S",
+          "2018Icar..306...50P",
+          "2018Icar..307..235B",
+          "2018JGRE..123.1012M",
+          "2018JGRE..123.1955R",
+          "2018M&PS...53.1179H",
+          "2018NatGe..11...21M",
+          "2019AmMin.104.1565F",
+          "2019AsBio..19..260H",
+          "2019AsBio..19..522W",
+          "2019AsBio..19.1230O",
+          "2019AsBio..19.1419D",
+          "2019GeoRL..4612771T",
+          "2019JESS..128..192R",
+          "2019M&PS...54S...3B",
+          "2019NatSR...9.7907G",
+          "2020AsBio..20..453S",
+          "2020AsBio..20..525G",
+          "2020AsBio..20..537T",
+          "2020JGRE..12506180C"
+        ],
+        "REFERENCE COUNT": [
+          16.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "6JX95984+C2"
+        ]
+      }
+    }
+  ]
+};
