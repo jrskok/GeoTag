@@ -1288,45 +1288,6 @@
           "7JGG858Q+CJ"
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PAPER_DOI": [
-          "10.1029/2009JE003339"
-        ],
-        "TITLE": [
-          "Spectral Evidence for Talc on Mars and Implications for Astrobiology"
-        ],
-        "AUTHOR": [
-          "Brown, A. J.",
-          "Bishop, J. L.",
-          "Van Kranendonk, M. J.",
-          "Russell, M. J.",
-          "Viviano-Beck, C. E.",
-          "Moersch, J."
-        ],
-        "YEAR": [
-          "2014"
-        ],
-        "JOURNAL": [
-          "AGU Fall Meeting Abstracts"
-        ],
-        "VOLUME": [
-          "2014"
-        ],
-        "ABSTRACT": [
-          "Two recent studies have uncovered corroborating spectral evidence for talc in Nili Fossae on Mars using the CRISM spectrometer on Mars Reconnaissance Orbiter. Inspired by fieldwork in the Pilbara region of Western Australia, Brown et al. (2010) suggested talc was present in some locations where saponite had been identified in the earlier study by Ehlmann et al. (2009). Viviano et al. (2013) then found an identifying marker for talc vs. saponite which confirmed the presence of talc and mapped the locations of the mineral signature using this spectral feature . Talc is an important mineral for identifying processes of hydrothermal alteration in ultramafic sequences in the Archean greenstone belts on Earth. As an alteration mineral of Mg-olivine it is likely to play the same role on Mars, where cumulate overturn has been suggested to have left a highly magnesian upper mantle (Elkins-Tanton et al. 2005). Early Mars and Earth had hotter mantles in their early stages of formation, following overturn of their respective magma oceans, when life began on Earth and may have started on Mars (Russell et al. 2014). In this presentation, we will show how talc (particularly in combination with carbonate) is an important indicator mineral for identifying the hydrothermal alteration of ultramafic sequences, and as such may lead the way to astrobiologically critical regions on Mars and specifically in Nili Fossae. References: <P />Brown, A. J., et al. \"Hydrothermal Formation of Clay-Carbonate Alteration Assemblages in the Nili Fossae Region of Mars.\" EPSL 297 (2010): 174-82. <P />Ehlmann, B. L., et al. \"Identification of Hydrated Silicate Minerals on Mars Using MRO-CRISM: Geologic Context near Nili Fossae and Implications for Aqueous Alteration.\" JGR Planets 114 (10): doi://10.1029/2009JE003339. Elkins-Tanton, L. T., et al. \"Possible Formation of Ancient Crust on Mars through Magma Ocean Processes.\" JGR Planets 110, no. E12 (December 1, 2005): E12S01. doi:10.1029/2005JE002480. Russell, M. J., et al. \"The Drive to Life on Wet and Icy Worlds.\" Astrobiology 14, no. 4 (2014): 308-43. <P />Viviano, C. E., et al. \"Implications for Early Hydrothermal Environments on Mars through the Spectral Evidence for Carbonation and Chloritization Reactions in the Nili Fossae Region.\" JGR Planets 118, no. 9 (2013): 1858-72. <P />"
-        ],
-        "REFERENCE": [],
-        "CITATION": [],
-        "REFERENCE COUNT": [
-          0.0
-        ],
-        "LOCATIONS": [
-          "NaN"
-        ]
-      }
     }
   ]
 }
