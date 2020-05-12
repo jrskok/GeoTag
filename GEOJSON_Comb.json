@@ -1706,6 +1706,2843 @@ var locations = {
           12.54
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00010628_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "6JX95984+C2",
+        "PAPERS": "10.1038/ngeo990",
+        "PAPER_DOI": [
+          "10.1038/ngeo990"
+        ],
+        "TITLE": [
+          "Silica deposits in the Nili Patera caldera on the Syrtis Major volcanic complex on Mars"
+        ],
+        "AUTHOR": [
+          "Skok, J. R.",
+          "Mustard, J. F.",
+          "Ehlmann, B. L.",
+          "Milliken, R. E.",
+          "Murchie, S. L."
+        ],
+        "YEAR": [
+          "2010"
+        ],
+        "JOURNAL": [
+          "Nature Geoscience"
+        ],
+        "VOLUME": [
+          "3"
+        ],
+        "REFERENCE COUNT": [
+          "16"
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "6JX95984+C2"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.355,
+          9.166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00003FB9_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHW8HJ2+CR",
+        "PAPERS": "10.1126/science.1164759",
+        "PAPER_DOI": [
+          "10.1126/science.1164759"
+        ],
+        "TITLE": [
+          "Orbital Identification of Carbonate-Bearing Rocks on Mars"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Poulet, Francois",
+          "Bishop, Janice L.",
+          "Brown, Adrian J.",
+          "Calvin, Wendy M.",
+          "Clark, Roger N.",
+          "Des Marais, David J.",
+          "Milliken, Ralph E.",
+          "Roach, Leah H.",
+          "Roush, Ted L.",
+          "Swayze, Gregg A.",
+          "Wray, James J."
+        ],
+        "YEAR": [
+          "2008"
+        ],
+        "JOURNAL": [
+          "Science"
+        ],
+        "VOLUME": [
+          "322"
+        ],
+        "REFERENCE COUNT": [
+          31.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JHW8HJ2+CR",
+          "7JCVGC47+26",
+          "7JHW7GQ5+6J",
+          "7JFR6CCQ+R6",
+          "7JHWWCWH+26"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55199999999999,
+          21.331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL000040FF_07_IF183S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JCVGC47+26",
+        "PAPERS": "10.1126/science.1164759",
+        "PAPER_DOI": [
+          "10.1126/science.1164759"
+        ],
+        "TITLE": [
+          "Orbital Identification of Carbonate-Bearing Rocks on Mars"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Poulet, Francois",
+          "Bishop, Janice L.",
+          "Brown, Adrian J.",
+          "Calvin, Wendy M.",
+          "Clark, Roger N.",
+          "Des Marais, David J.",
+          "Milliken, Ralph E.",
+          "Roach, Leah H.",
+          "Roush, Ted L.",
+          "Swayze, Gregg A.",
+          "Wray, James J."
+        ],
+        "YEAR": [
+          "2008"
+        ],
+        "JOURNAL": [
+          "Science"
+        ],
+        "VOLUME": [
+          "322"
+        ],
+        "REFERENCE COUNT": [
+          31.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JHW8HJ2+CR",
+          "7JCVGC47+26",
+          "7JHW7GQ5+6J",
+          "7JFR6CCQ+R6",
+          "7JHWWCWH+26"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.413,
+          18.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000A09C_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHW7GQ5+6J",
+        "PAPERS": "10.1126/science.1164759",
+        "PAPER_DOI": [
+          "10.1126/science.1164759"
+        ],
+        "TITLE": [
+          "Orbital Identification of Carbonate-Bearing Rocks on Mars"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Poulet, Francois",
+          "Bishop, Janice L.",
+          "Brown, Adrian J.",
+          "Calvin, Wendy M.",
+          "Clark, Roger N.",
+          "Des Marais, David J.",
+          "Milliken, Ralph E.",
+          "Roach, Leah H.",
+          "Roush, Ted L.",
+          "Swayze, Gregg A.",
+          "Wray, James J."
+        ],
+        "YEAR": [
+          "2008"
+        ],
+        "JOURNAL": [
+          "Science"
+        ],
+        "VOLUME": [
+          "322"
+        ],
+        "REFERENCE COUNT": [
+          31.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JHW8HJ2+CR",
+          "7JCVGC47+26",
+          "7JHW7GQ5+6J",
+          "7JFR6CCQ+R6",
+          "7JHWWCWH+26"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.509,
+          21.288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000093BE_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JFR6CCQ+R6",
+        "PAPERS": "10.1126/science.1164759",
+        "PAPER_DOI": [
+          "10.1126/science.1164759"
+        ],
+        "TITLE": [
+          "Orbital Identification of Carbonate-Bearing Rocks on Mars"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Poulet, Francois",
+          "Bishop, Janice L.",
+          "Brown, Adrian J.",
+          "Calvin, Wendy M.",
+          "Clark, Roger N.",
+          "Des Marais, David J.",
+          "Milliken, Ralph E.",
+          "Roach, Leah H.",
+          "Roush, Ted L.",
+          "Swayze, Gregg A.",
+          "Wray, James J."
+        ],
+        "YEAR": [
+          "2008"
+        ],
+        "JOURNAL": [
+          "Science"
+        ],
+        "VOLUME": [
+          "322"
+        ],
+        "REFERENCE COUNT": [
+          31.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JHW8HJ2+CR",
+          "7JCVGC47+26",
+          "7JHW7GQ5+6J",
+          "7JFR6CCQ+R6",
+          "7JHWWCWH+26"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.438,
+          19.222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B072_0D_IF156S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHWWCWH+26",
+        "PAPERS": "10.1126/science.1164759",
+        "PAPER_DOI": [
+          "10.1126/science.1164759"
+        ],
+        "TITLE": [
+          "Orbital Identification of Carbonate-Bearing Rocks on Mars"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Murchie, Scott L.",
+          "Poulet, Francois",
+          "Bishop, Janice L.",
+          "Brown, Adrian J.",
+          "Calvin, Wendy M.",
+          "Clark, Roger N.",
+          "Des Marais, David J.",
+          "Milliken, Ralph E.",
+          "Roach, Leah H.",
+          "Roush, Ted L.",
+          "Swayze, Gregg A.",
+          "Wray, James J."
+        ],
+        "YEAR": [
+          "2008"
+        ],
+        "JOURNAL": [
+          "Science"
+        ],
+        "VOLUME": [
+          "322"
+        ],
+        "REFERENCE COUNT": [
+          31.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JHW8HJ2+CR",
+          "7JCVGC47+26",
+          "7JHW7GQ5+6J",
+          "7JFR6CCQ+R6",
+          "7JHWWCWH+26"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.428,
+          21.945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00003E12_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JJV7369+26",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.068,
+          22.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000454E_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGG4467+26",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.113,
+          20.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000050F2_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J7J24MF+6J",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.124,
+          15.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000051EE_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JF7WRRJ+2R",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.832,
+          19.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000527D_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JXM8823+C6",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.303,
+          29.301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT000064D9_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHP562W+RC",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.24600000000001,
+          21.151999999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000871C_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHVR4WJ+2C",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.131,
+          21.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRS00008D9A_07_IF174S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J8JCGQ6+JR",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.512,
+          16.439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009312_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JF7WVC5+2J",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.859,
+          19.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009365_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J7JQ2CQ+C6",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.038,
+          15.770999999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009786_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J9H9V53+6J",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.854,
+          17.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009971_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JJP3J4J+22",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.63,
+          22.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009D44_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGM3MCP+2C",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.686,
+          20.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT00009E5D_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JF7VX5W+6R",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.997,
+          19.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000A053_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JJPC7XC+JC",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.271,
+          22.449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000A4FC_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHVX6Q8+62",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.215,
+          21.988000000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000A63F_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGG83HW+6C",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.096,
+          20.328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000AACE_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGG68C4+2R",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.307,
+          20.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000ABCB_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGMV7CM+C6",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.283,
+          20.871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL0000AC95_07_IF183S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JG72PWX+R6",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.748,
+          20.047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B1B5_07_IF165S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J9H3VCV+2J",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.89399999999999,
+          17.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B2C7_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGGC73P+62",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.285,
+          20.403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000B438_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JJV5589+RJ",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.169,
+          22.166999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "FRT0000BD3A_07_IF166S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JF7QM64+22",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.655,
+          19.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL000086CA_07_IF182S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J9H3WF3+6J",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.904,
+          17.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL00009EA3_07_IF182S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J8HQJR6+CR",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.612,
+          16.791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL0000B404_07_IF183S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JHJV744+2C",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.256,
+          21.855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL0000B868_07_IF182S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J9H7PWR+2R",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.742,
+          17.295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRL0000B8C2_07_IF183S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7J9V83CR+2R",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.092,
+          17.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "HRS00002FC5_07_IF175S_TRR3",
+        "DETAILS": "NAN",
+        "TYPE": "CRISM",
+        "ID": "7JGG858Q+CJ",
+        "PAPERS": "10.1029/2009JE003339",
+        "PAPER_DOI": [
+          "10.1029/2009JE003339"
+        ],
+        "TITLE": [
+          "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration"
+        ],
+        "AUTHOR": [
+          "Ehlmann, Bethany L.",
+          "Mustard, John F.",
+          "Swayze, Gregg A.",
+          "Clark, Roger N.",
+          "Bishop, Janice L.",
+          "Poulet, Francois",
+          "Des Marais, David J.",
+          "Roach, Leah H.",
+          "Milliken, Ralph E.",
+          "Wray, James J.",
+          "Barnouin-Jha, Olivier",
+          "Murchie, Scott L."
+        ],
+        "YEAR": [
+          "2009"
+        ],
+        "JOURNAL": [
+          "Journal of Geophysical Research (Planets)"
+        ],
+        "VOLUME": [
+          "114"
+        ],
+        "REFERENCE COUNT": [
+          87.0
+        ],
+        "LOCATIONS": [
+          "NaN",
+          "7JJV7369+26",
+          "7JGG4467+26",
+          "7J7J24MF+6J",
+          "7JF7WRRJ+2R",
+          "7JXM8823+C6",
+          "7JHP562W+RC",
+          "7JHVR4WJ+2C",
+          "7J8JCGQ6+JR",
+          "7JF7WVC5+2J",
+          "7J7JQ2CQ+C6",
+          "7J9H9V53+6J",
+          "7JJP3J4J+22",
+          "7JGM3MCP+2C",
+          "7JF7VX5W+6R",
+          "7JJPC7XC+JC",
+          "7JHVX6Q8+62",
+          "7JGG83HW+6C",
+          "7JGG68C4+2R",
+          "7JGMV7CM+C6",
+          "7JG72PWX+R6",
+          "7J9H3VCV+2J",
+          "7JGGC73P+62",
+          "7JJV5589+RJ",
+          "7JF7QM64+22",
+          "7J9H3WF3+6J",
+          "7J8HQJR6+CR",
+          "7JHJV744+2C",
+          "7J9H7PWR+2R",
+          "7J9V83CR+2R",
+          "7JGG858Q+CJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.189,
+          20.316
+        ]
+      }
     }
   ]
 };
