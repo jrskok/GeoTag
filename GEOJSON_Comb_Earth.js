@@ -11,7 +11,7 @@ var locations = {
         "ID": "85755RJ5+7R",
         "PAPERS": "10.1016/j.asr.2016.05.011",
         "PAPER_DOI": "10.1016/j.asr.2016.05.011",
-        "TITLE": "Lunar polar rover science operations: Lessons learned and mission architecture implications derived from the Mojave Volatiles Prospector (MVP) terrestrial field campaign",
+        "TITLE": "What!!!! Lunar polar rover science operations: Lessons learned and mission architecture implications derived from the Mojave Volatiles Prospector (MVP) terrestrial field campaign",
         "AUTHOR": "Heldmann, Jennifer L., Colaprete, Anthony, Elphic, Richard C., Lim, Darlene, Deans, Matthew, Cook, Amanda, Roush, Ted, Skok, J. R., Button, Nicole E., Karunatillake, S., Stoker, Carol, Marquez, Jessica J., Shirley, Mark, Kobayashi, Linda, Lees, David, Bresina, John, Hunt, Rusty",
         "YEAR": 2016,
         "JOURNAL": "Advances in Space Research",
