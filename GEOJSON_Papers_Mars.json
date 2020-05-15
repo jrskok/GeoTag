@@ -1,0 +1,607 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1029/2009JE003338",
+        "TITLE": "Spectrally distinct ejecta in Syrtis Major, Mars: Evidence for environmental change at the Hesperian-Amazonian boundary",
+        "AUTHOR": "Skok, John R., Mustard, John F., Murchie, Scott L., Wyatt, Michael B., Ehlmann, Bethany L.",
+        "YEAR": 2010,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "115",
+        "LOCATIONS": "7J79WW7W+6C, 7J4GG2R5+2J",
+        "LOC_COUNT": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1029/2012JE004148",
+        "TITLE": "A spectroscopic analysis of Martian crater central peaks: Formation of the ancient crust",
+        "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
+        "YEAR": 2012,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "117",
+        "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J",
+        "LOC_COUNT": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1038/ngeo990",
+        "TITLE": "Silica deposits in the Nili Patera caldera on the Syrtis Major volcanic complex on Mars",
+        "AUTHOR": "Skok, J. R., Mustard, J. F., Ehlmann, B. L., Milliken, R. E., Murchie, S. L.",
+        "YEAR": 2010,
+        "JOURNAL": "Nature Geoscience",
+        "VOLUME": "3",
+        "LOCATIONS": "6JX95984+C2",
+        "LOC_COUNT": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1126/science.1164759",
+        "TITLE": "Orbital Identification of Carbonate-Bearing Rocks on Mars",
+        "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
+        "YEAR": 2008,
+        "JOURNAL": "Science",
+        "VOLUME": "322",
+        "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26",
+        "LOC_COUNT": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1029/2009JE003339",
+        "TITLE": "Identification of hydrated silicate minerals on Mars using MRO-CRISM: Geologic context near Nili Fossae and implications for aqueous alteration",
+        "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
+        "YEAR": 2009,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "114",
+        "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ",
+        "LOC_COUNT": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2016JE005095",
+        "TITLE": "The stratigraphy and evolution of lower Mount Sharp from spectral, morphological, and thermophysical orbital data sets",
+        "AUTHOR": "Fraeman, A. A., Ehlmann, B. L., Arvidson, R. E., Edwards, C. S., Grotzinger, J. P., Milliken, R. E., Quinn, D. P., Rice, M. S.",
+        "YEAR": 2016,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "121",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2015JE004924",
+        "TITLE": "The complex relationship between olivine abundance and thermal inertia on Mars",
+        "AUTHOR": "Hanna, Romy D., Hamilton, Victoria E., Putzig, Nathaniel E.",
+        "YEAR": 2016,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "121",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1073/pnas.1002889107",
+        "TITLE": "From the Cover: Noachian and more recent phyllosilicates in impact craters on Mars",
+        "AUTHOR": "Fair\u00e9n, Alberto G., Chevrier, Vincent, Abramov, Oleg, Marzo, Giuseppe A., Gavin, Patricia, Davila, Alfonso F., Tornabene, Livio L., Bishop, Janice L., Roush, Ted L., Gross, Christoph, Kneissl, Thomas, Uceda, Esther R., Dohm, James M., Schulze-Makuch, Dirk, Rodr\u00edguez, J. Alexis P., Amils, Ricardo, McKay, Christopher P.",
+        "YEAR": 2010,
+        "JOURNAL": "Proceedings of the National Academy of Science",
+        "VOLUME": "107",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.2138/am.2014.4707",
+        "TITLE": "Spectral and thermal properties of perchlorate salts and implications for Mars",
+        "AUTHOR": "Bishop, J. L., Quinn, R., Dyar, M. D.",
+        "YEAR": 2014,
+        "JOURNAL": "American Mineralogist",
+        "VOLUME": "99",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1029/2018GL080077",
+        "TITLE": "Challenges in the Search for Perchlorate and Other Hydrated Minerals With 2.1-\u03bcm Absorptions on Mars",
+        "AUTHOR": "Leask, E. K., Ehlmann, B. L., Dundar, M. M., Murchie, S. L., Seelos, F. P.",
+        "YEAR": 2018,
+        "JOURNAL": "Geophysical Research Letters",
+        "VOLUME": "45",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2017JE005267",
+        "TITLE": "Chemistry, mineralogy, and grain properties at Namib and High dunes, Bagnold dune field, Gale crater, Mars: A synthesis of Curiosity rover observations",
+        "AUTHOR": "Ehlmann, B. L., Edgett, K. S., Sutter, B., Achilles, C. N., Litvak, M. L., Lapotre, M. G. A., Sullivan, R., Fraeman, A. A., Arvidson, R. E., Blake, D. F., Bridges, N. T., Conrad, P. G., Cousin, A., Downs, R. T., Gabriel, T. S. J., Gellert, R., Hamilton, V. E., Hardgrove, C., Johnson, J. R., Kuhn, S., Mahaffy, P. R., Maurice, S., McHenry, M., Meslin, P. -Y., Ming, D. W., Minitti, M. E., Morookian, J. M., Morris, R. V., \"OConnell-Cooper, C. D.\", Pinet, P. C., Rowland, S. K., Schr\u00f6der, S., Siebach, K. L., Stein, N. T., Thompson, L. M., Vaniman, D. T., Vasavada, A. R., Wellington, D. F., Wiens, R. C., Yen, A. S.",
+        "YEAR": 2017,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "122",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1038/s41550-017-0377-9",
+        "TITLE": "VNIR Spectral Analysis of Laboratory Nontronite/Jarosite Mixtures: Applications to Mawrth Vallis",
+        "AUTHOR": "Usabal, G. S., Bishop, J. L.",
+        "YEAR": 2018,
+        "JOURNAL": "AGU Fall Meeting Abstracts",
+        "VOLUME": "2018",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1038/s41550-017-0377-9",
+        "TITLE": "Surface clay formation during short-term warmer and wetter conditions on a largely cold ancient Mars",
+        "AUTHOR": "Bishop, Janice L., Fair\u00e9n, Alberto G., Michalski, Joseph R., Gago-Duport, Luis, Baker, Leslie L., Velbel, Michael A., Gross, Christoph, Rampe, Elizabeth B.",
+        "YEAR": 2018,
+        "JOURNAL": "Nature Astronomy",
+        "VOLUME": "2",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2014JE004761",
+        "TITLE": "Limited role for thermal erosion by turbulent lava in proximal Athabasca Valles, Mars",
+        "AUTHOR": "Cataldo, Vincenzo, Williams, David A., Dundas, Colin M., Keszthelyi, Laszlo P.",
+        "YEAR": 2015,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "120",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1029/2019JE006080",
+        "TITLE": "Relative Humidity on Mars: New Results From the Phoenix TECP Sensor",
+        "AUTHOR": "Fischer, E., Mart\u00ednez, G. M., Renn\u00f3, N. O., Tamppari, L. K., Zent, A. P.",
+        "YEAR": 2019,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "124",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2019.2090",
+        "TITLE": "Is a Linear or a Walkabout Protocol More Efficient When Using a Rover to Choose Biologically Relevant Samples in a Small Region of Interest?",
+        "AUTHOR": "Yingst, R. Aileen, Bartley, Julie K., Chidsey, Thomas J., Cohen, Barbara A., Hynek, Brian M., Kah, Linda C., Minitti, Michelle E., Vanden Berg, Michael D., Williams, Rebecca M. E., Adams, Madison, Black, Sarah, El-Maarry, Mohammed R., Gemperline, John, Kronyak, Rachel, Lotto, Michael",
+        "YEAR": 2020,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "20",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1126/science.1159699",
+        "TITLE": "Phyllosilicate Diversity and Past Aqueous Activity Revealed at Mawrth Vallis, Mars",
+        "AUTHOR": "Bishop, Janice L., Dobrea, Eldar Z. Noe, McKeown, Nancy K., Parente, Mario, Ehlmann, Bethany L., Michalski, Joseph R., Milliken, Ralph E., Poulet, Francois, Swayze, Gregg A., Mustard, John F., Murchie, Scott L., Bibring, Jean-Pierre",
+        "YEAR": 2008,
+        "JOURNAL": "Science",
+        "VOLUME": "321",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2016.1627",
+        "TITLE": "Biosignature Preservation and Detection in Mars Analog Environments",
+        "AUTHOR": "Hays, Lindsay E., Graham, Heather V., Des Marais, David J., Hausrath, Elisabeth M., Horgan, Briony, McCollom, Thomas M., Parenteau, M. Niki, Potter-McIntyre, Sally L., Williams, Amy J., Lynch, Kennda L.",
+        "YEAR": 2017,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "17",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1016/j.actaastro.2016.12.018",
+        "TITLE": "Determining best practices in reconnoitering sites for habitability potential on Mars using a semi-autonomous rover: A GeoHeuristic Operational Strategies Test",
+        "AUTHOR": "Yingst, R. A., Berger, J., Cohen, B. A., Hynek, B., Schmidt, M. E.",
+        "YEAR": 2017,
+        "JOURNAL": "Acta Astronautica",
+        "VOLUME": "132",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2017.1756",
+        "TITLE": "The Coevolution of Life and Environment on Mars: An Ecosystem Perspective on the Robotic Exploration of Biosignatures",
+        "AUTHOR": "Cabrol, Nathalie A.",
+        "YEAR": 2018,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "18",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1126/sciadv.aar3330",
+        "TITLE": "Clay mineral diversity and abundance in sedimentary rocks of Gale crater, Mars",
+        "AUTHOR": "Bristow, Thomas F., Rampe, Elizabeth B., Achilles, Cherie N., Blake, David F., Chipera, Steve J., Craig, Patricia, Crisp, Joy A., Des Marais, David J., Downs, Robert T., Gellert, Ralf, Grotzinger, John P., Gupta, Sanjeev, Hazen, Robert M., Horgan, Briony, Hogancamp, Joanna V., Mangold, Nicolas, Mahaffy, Paul R., McAdam, Amy C., Ming, Doug W., Morookian, John Michael, Morris, Richard V., Morrison, Shaunna M., Treiman, Allan H., Vaniman, David T., Vasavada, Ashwin R., Yen, Albert S.",
+        "YEAR": 2018,
+        "JOURNAL": "Science Advances",
+        "VOLUME": "4",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2018.1976",
+        "TITLE": "Terrestrial Hot Spring Systems: Introduction",
+        "AUTHOR": "Des Marais, David J., Walter, Malcolm R.",
+        "YEAR": 2019,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "19",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2016JE005229",
+        "TITLE": "Mineral paragenesis on Mars: The roles of reactive surface area and diffusion",
+        "AUTHOR": "Fair\u00e9n, Alberto G., Gil-Lozano, Carolina, Uceda, Esther R., Losa-Adams, Elisabeth, Davila, Alfonso F., Gago-Duport, Luis",
+        "YEAR": 2017,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "122",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2014.1235",
+        "TITLE": "Preserved Filamentous Microbial Biosignatures in the Brick Flat Gossan, Iron Mountain, California",
+        "AUTHOR": "Williams, Amy J., Sumner, Dawn Y., Alpers, Charles N., Karunatillake, Suniti, Hofmann, Beda A.",
+        "YEAR": 2015,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "15",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2018.1960",
+        "TITLE": "Paleo-Rock-Hosted Life on Earth and the Search on Mars: A Review and Strategy for Exploration",
+        "AUTHOR": "Onstott, T. C., Ehlmann, B. L., Sapers, H., Coleman, M., Ivarsson, M., Marlow, J. J., Neubeck, A., Niles, P.",
+        "YEAR": 2019,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "19",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2017JE005460",
+        "TITLE": "Wind-Driven Erosion and Exposure Potential at Mars 2020 Rover Candidate-Landing Sites",
+        "AUTHOR": "Chojnacki, Matthew, Banks, Maria, Urso, Anna",
+        "YEAR": 2018,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "123",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2018.1841",
+        "TITLE": "Requirements for Portable Instrument Suites during Human Scientific Exploration of Mars",
+        "AUTHOR": "Sehlke, Alexander, Mirmalek, Zara, Burtt, David, Haberle, Christopher W., Santiago-Materese, Delia, Kobs Nawotniak, Shannon E., Hughes, Scott S., Garry, W. Brent, Bramall, Nathan, Brown, Adrian J., Heldmann, Jennifer L., Lim, Darlene S. S.",
+        "YEAR": 2019,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "19",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2017JE005455",
+        "TITLE": "The Geologic Exploration of the Bagnold Dune Field at Gale Crater by the Curiosity Rover",
+        "AUTHOR": "Chojnacki, Matthew, Fenton, Lori K.",
+        "YEAR": 2017,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "122",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2016.1533",
+        "TITLE": "Habitability on Early Mars and the Search for Biosignatures with the ExoMars Rover",
+        "AUTHOR": "Vago, Jorge L., Westall, Frances, Pasteur Instrument Team, Pasteur Landing Team, Coates, Andrew J., Jaumann, Ralf, Korablev, Oleg, Ciarletti, Val\u00e9rie, Mitrofanov, Igor, Josset, Jean-Luc, De Sanctis, Maria Cristina, Bibring, Jean-Pierre, Rull, Fernando, Goesmann, Fred, Steininger, Harald, Goetz, Walter, Brinckerhoff, William, Szopa, Cyril, Raulin, Fran\u00e7ois, Westall, Frances, Edwards, Howell G. M., Whyte, Lyle G., Fair\u00e9n, Alberto G., Bibring, Jean-Pierre, Bridges, John, Hauber, Ernst, Ori, Gian Gabriele, Werner, Stephanie, Loizeau, Damien, Kuzmin, Ruslan O., Williams, Rebecca M. E., Flahaut, Jessica, Forget, Fran\u00e7ois, Vago, Jorge L., Rodionov, Daniel, Korablev, Oleg, Svedhem, H\u00e5kan, Sefton-Nash, Elliot, Kminek, Gerhard, Lorenzoni, Leila, Joudrier, Luc, Mikhailov, Viktor, Zashchirinskiy, Alexander, Alexashkin, Sergei, Calantropio, Fabio, Merlo, Andrea, Poulakis, Pantelis, Witasse, Olivier, Bayle, Olivier, Bay\u00f3n, Silvia, Meierhenrich, Uwe, Carter, John, Garc\u00eda-Ruiz, Juan Manuel, Baglioni, Pietro, Haldemann, Albert, Ball, Andrew J., Debus, Andr\u00e9, Lindner, Robert, Haessig, Fr\u00e9d\u00e9ric, Monteiro, David, Trautner, Roland, Voland, Christoph, Rebeyre, Pierre, Goulty, Duncan, Didot, Fr\u00e9d\u00e9ric, Durrant, Stephen, Zekri, Eric, Koschny, Detlef, Toni, Andrea, Visentin, Gianfranco, Zwick, Martin, van Winnendael, Michel, Azkarate, Mart\u00edn, Carreau, Christophe, ExoMars Project Team",
+        "YEAR": 2017,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "17",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Three-dimensional radar imaging of structures and craters in the Martian polar caps",
+        "AUTHOR": "Putzig, Nathaniel E., Smith, Isaac B., Perry, Matthew R., Foss, Frederick J., Campbell, Bruce A., Phillips, Roger J., Seu, Roberto",
+        "YEAR": 2018,
+        "JOURNAL": "Icarus",
+        "VOLUME": "308",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Molecular dynamics of a grid-mounted molecular dipolar rotor in a rotating electric field",
+        "AUTHOR": "New Members,, 1, Foreign Associates Elected To The National Academy Of Sciences On May, Academy, 2001. 72 New Members Chosen By The",
+        "YEAR": 2001,
+        "JOURNAL": "Proceedings of the National Academy of Science",
+        "VOLUME": "98",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Discovering Asteroids",
+        "AUTHOR": "Vodniza, Alberto Q., Portilla, Mauricio, Ruiz, Daniel, Martinez, Andres, Pantoja, Mario, 1, Pan-Starrs, International Astronomical Search Collaboration, Colombia Asteroid Search Campaign, All",
+        "YEAR": 2018,
+        "JOURNAL": "AAS/Division for Planetary Sciences Meeting Abstracts #50",
+        "VOLUME": "None",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "A top-face-sway electromagnetic micromotor",
+        "AUTHOR": "Liang, Jingqiu, Le, Zichun, Yao, Jinsong, Wu, Zhiyong, Jia, Hongguang, Wu, Yihui, Jia, Zhi, 1, Qiongying Lu, Xuan, Ming, Wang, Lijun",
+        "YEAR": 2003,
+        "JOURNAL": "Chinese Optics Letters",
+        "VOLUME": "1",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Optical monitoring of Eta Carinae. The 2006 observing season",
+        "AUTHOR": "Fern\u00e1ndez Laj\u00fas, E., {1, 2, 3}, Salerno, N., Schwartz, M., Torres, A., Calder\u00f3n, J. P., Fari\u00f1a, C., Bareilles, F., Niemela, V.",
+        "YEAR": 2006,
+        "JOURNAL": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+        "VOLUME": "49",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "The Tidal Air of Laboratory Animals",
+        "AUTHOR": "Navy, The Personnel Of U. S., 1, Medical Research Unit No., Kleiber, Max",
+        "YEAR": 1944,
+        "JOURNAL": "Science",
+        "VOLUME": "99",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Application of plasma shutter in second harmonic generation of AgGaSe_(2) crystal",
+        "AUTHOR": "Huang, Jinzhe, Hu, Xiaoyong, Ren, Deming, 1, Yanchen Qu",
+        "YEAR": 2003,
+        "JOURNAL": "Chinese Optics Letters",
+        "VOLUME": "1",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Anomalous phase shift of Shubnikov - de Haas oscillations in HgTe quantum well with inverted energy spectrum",
+        "AUTHOR": "Neverov V., N., Klepikova A., S., Bogolubskii A., S., Gudina S., V., Turutkin K., V., 1, Shelushinina N. G., Yakunin M., V., Mikhailov, N. N., Dvoretsky, S. A.",
+        "YEAR": 2020,
+        "JOURNAL": "arXiv e-prints",
+        "VOLUME": "None",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1190/tle36010043.1",
+        "TITLE": "Thermoelectric studies of Ir$_{1-x}$Rh$_{x}$Te$_{2}$ (0 $\\\\leqslant x \\\\leqslant $ 0.3)",
+        "AUTHOR": "Liu, Yu, Hechang Lei, $^{1}$, Kefeng Wang, $^{1}$, Milinda Abeykoon, $^{1}$, Warren, $^{2}$ J. B., Bozin, $^{3}$ Emil, $^{1}$, Petrovic$^{1}$, C.",
+        "YEAR": 2018,
+        "JOURNAL": "arXiv e-prints",
+        "VOLUME": "None",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2018.1870",
+        "TITLE": "A Low-Diversity Microbiota Inhabits Extreme Terrestrial Basaltic Terrains and Their Fumaroles: Implications for the Exploration of Mars",
+        "AUTHOR": "Cockell, Charles S., Harrison, Jesse P., Stevens, Adam H., Payler, Samuel J., Hughes, Scott S., Kobs Nawotniak, Shannon E., Brady, Allyson L., Elphic, R. C., Haberle, Christopher W., Sehlke, Alexander, Beaton, Kara H., Abercromby, Andrew F. J., Schwendner, Petra, Wadsworth, Jennifer, Landenmark, Hanna, Cane, Rosie, Dickinson, Andrew W., Nicholson, Natasha, Perera, Liam, Lim, Darlene S. S.",
+        "YEAR": 2019,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "19",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2018.1912",
+        "TITLE": "Assessing the Acceptability of Science Operations Concepts and the Level of Mission Enhancement of Capabilities for Human Mars Exploration Extravehicular Activity",
+        "AUTHOR": "Beaton, K. H., Chappell, S. P., Abercromby, A. F. J., Miller, M. J., Kobs Nawotniak, S. E., Brady, A. L., Stevens, A. H., Payler, S. J., Hughes, S. S., Lim, D. S. S.",
+        "YEAR": 2019,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "19",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1002/2016JE005128",
+        "TITLE": "Space weathering on airless bodies",
+        "AUTHOR": "Pieters, Carle M., Noble, Sarah K.",
+        "YEAR": 2016,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": "121",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1089/ast.2017.1717",
+        "TITLE": "The Search for Hesperian Organic Matter on Mars: Pyrolysis Studies of Sediments Rich in Sulfur and Iron",
+        "AUTHOR": "Lewis, James M. T., Najorka, Jens, Watson, Jonathan S., Sephton, Mark A.",
+        "YEAR": 2018,
+        "JOURNAL": "Astrobiology",
+        "VOLUME": "18",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "PAPER_DOI": "10.1016/j.icarus.2014.10.034",
+        "TITLE": "Solar panel clearing events, dust devil tracks, and in-situ vortex detections on Mars",
+        "AUTHOR": "Lorenz, Ralph D., Reiss, Dennis",
+        "YEAR": 2015,
+        "JOURNAL": "Icarus",
+        "VOLUME": "248",
+        "LOCATIONS": "nan'",
+        "LOC_COUNT": 0
+      }
+    }
+  ]
+}
