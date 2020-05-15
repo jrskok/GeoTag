@@ -21,7 +21,7 @@ var locations = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.19041399999999,
+          -116.190414,
           35.18072
         ]
       }
@@ -72,7 +72,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           -74.459218,
-          56.276734999999995
+          56.276735
         ]
       }
     },

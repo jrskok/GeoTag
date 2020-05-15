@@ -72,7 +72,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           323.568,
-          -35.580999999999996
+          -35.581
         ]
       }
     },
@@ -147,7 +147,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           343.341,
-          -31.416999999999998
+          -31.417
         ]
       }
     },
@@ -397,7 +397,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           75.808,
-          20.750999999999998
+          20.751
         ]
       }
     },
@@ -446,7 +446,7 @@ var locations = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          350.76800000000003,
+          350.7680000000001,
           56.856
         ]
       }
@@ -472,7 +472,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           15.242,
-          52.638000000000005
+          52.63800000000001
         ]
       }
     },
@@ -671,7 +671,7 @@ var locations = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.55199999999999,
+          78.55199999999998,
           21.331
         ]
       }
@@ -921,8 +921,8 @@ var locations = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.24600000000001,
-          21.151999999999997
+          74.24600000000002,
+          21.152
         ]
       }
     },
@@ -1022,7 +1022,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           72.038,
-          15.770999999999999
+          15.771
         ]
       }
     },
@@ -1296,7 +1296,7 @@ var locations = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.89399999999999,
+          71.89399999999998,
           17.07
         ]
       }
@@ -1347,7 +1347,7 @@ var locations = {
         "type": "Point",
         "coordinates": [
           77.169,
-          22.166999999999998
+          22.167
         ]
       }
     },

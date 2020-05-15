@@ -12,7 +12,7 @@
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "115",
         "LOCATIONS": "7J79WW7W+6C, 7J4GG2R5+2J",
-        "LOC_COUNT": "2"
+        "LOC_COUNT": 2
       }
     },
     {
@@ -26,7 +26,7 @@
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "117",
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J",
-        "LOC_COUNT": "23"
+        "LOC_COUNT": 23
       }
     },
     {
@@ -40,7 +40,7 @@
         "JOURNAL": "Nature Geoscience",
         "VOLUME": "3",
         "LOCATIONS": "6JX95984+C2",
-        "LOC_COUNT": "1"
+        "LOC_COUNT": 1
       }
     },
     {
@@ -54,7 +54,7 @@
         "JOURNAL": "Science",
         "VOLUME": "322",
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26",
-        "LOC_COUNT": "5"
+        "LOC_COUNT": 5
       }
     },
     {
@@ -68,7 +68,7 @@
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "114",
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ",
-        "LOC_COUNT": "30"
+        "LOC_COUNT": 30
       }
     },
     {
@@ -81,8 +81,8 @@
         "YEAR": 2016,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "121",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -95,8 +95,8 @@
         "YEAR": 2016,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "121",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -109,8 +109,8 @@
         "YEAR": 2010,
         "JOURNAL": "Proceedings of the National Academy of Science",
         "VOLUME": "107",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -123,8 +123,8 @@
         "YEAR": 2014,
         "JOURNAL": "American Mineralogist",
         "VOLUME": "99",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -137,8 +137,8 @@
         "YEAR": 2018,
         "JOURNAL": "Geophysical Research Letters",
         "VOLUME": "45",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -151,8 +151,8 @@
         "YEAR": 2017,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "122",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -165,8 +165,8 @@
         "YEAR": 2018,
         "JOURNAL": "AGU Fall Meeting Abstracts",
         "VOLUME": "2018",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -179,8 +179,8 @@
         "YEAR": 2018,
         "JOURNAL": "Nature Astronomy",
         "VOLUME": "2",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -193,8 +193,8 @@
         "YEAR": 2015,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "120",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -207,8 +207,8 @@
         "YEAR": 2019,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "124",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -221,8 +221,8 @@
         "YEAR": 2020,
         "JOURNAL": "Astrobiology",
         "VOLUME": "20",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -235,22 +235,8 @@
         "YEAR": 2008,
         "JOURNAL": "Science",
         "VOLUME": "321",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1126/science.1159699",
-        "TITLE": "Active Early Chemistry Proposed for Mawrth Vallis, Mars, Based on Changing Redox Processes in Ancient Phyllosilicate Rocks",
-        "AUTHOR": "Bishop, J. L., McKeown, N. K., Parente, M., Noe Dobrea, E., Mustard, J. F., Murchie, S.",
-        "YEAR": 2008,
-        "JOURNAL": "AGU Fall Meeting Abstracts",
-        "VOLUME": "2008",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -263,22 +249,8 @@
         "YEAR": 2017,
         "JOURNAL": "Astrobiology",
         "VOLUME": "17",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1016/j.geomorph.2015.05.002",
-        "TITLE": "Runoff experiment and adapted SfM photogrammetry to assess rill erosion in Mediterranean agricultural fields from a holistic point of view",
-        "AUTHOR": "Gronz, Oliver, Rodrigo-Comino, Jes\u00fas, Seeger, Manuel",
-        "YEAR": 2017,
-        "JOURNAL": "EGU General Assembly Conference Abstracts",
-        "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -291,8 +263,8 @@
         "YEAR": 2017,
         "JOURNAL": "Acta Astronautica",
         "VOLUME": "132",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -305,8 +277,8 @@
         "YEAR": 2018,
         "JOURNAL": "Astrobiology",
         "VOLUME": "18",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -319,8 +291,8 @@
         "YEAR": 2018,
         "JOURNAL": "Science Advances",
         "VOLUME": "4",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -333,8 +305,8 @@
         "YEAR": 2019,
         "JOURNAL": "Astrobiology",
         "VOLUME": "19",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -347,8 +319,8 @@
         "YEAR": 2017,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "122",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -361,8 +333,8 @@
         "YEAR": 2015,
         "JOURNAL": "Astrobiology",
         "VOLUME": "15",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -375,8 +347,8 @@
         "YEAR": 2019,
         "JOURNAL": "Astrobiology",
         "VOLUME": "19",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -389,8 +361,8 @@
         "YEAR": 2018,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "123",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -403,8 +375,8 @@
         "YEAR": 2019,
         "JOURNAL": "Astrobiology",
         "VOLUME": "19",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -417,8 +389,8 @@
         "YEAR": 2017,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "122",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -431,8 +403,8 @@
         "YEAR": 2017,
         "JOURNAL": "Astrobiology",
         "VOLUME": "17",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -445,8 +417,8 @@
         "YEAR": 2018,
         "JOURNAL": "Icarus",
         "VOLUME": "308",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -459,8 +431,8 @@
         "YEAR": 2001,
         "JOURNAL": "Proceedings of the National Academy of Science",
         "VOLUME": "98",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -473,22 +445,8 @@
         "YEAR": 2018,
         "JOURNAL": "AAS/Division for Planetary Sciences Meeting Abstracts #50",
         "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1190/tle36010043.1",
-        "TITLE": "Landslide and Tsunami in Karrat Fjord, Greenland, 2017; the Event, the Response and the Future",
-        "AUTHOR": "Langley, K., M\u00e4tzler, E., Barba, M., Bojesen, M. H., Caduff, R., \"OCofaigh, C.\", Dehls, J. F., 1, G. W. G., Glimsdal, S., Harbitz, C. B., Hermanns, R. L., Kaab, A., Kibenich, B., Kvistedal, Y., Langeland, H., Larsen, Y., L\u00f8vholt, F., Lynett, P. J., Morin, P. J., Odermatt, L., Rignot, E. J., Sparrevik, P., Wiesmann, A., Willis, M., Zinglersen, K. B.",
-        "YEAR": 2017,
-        "JOURNAL": "AGU Fall Meeting Abstracts",
-        "VOLUME": "2017",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -501,8 +459,8 @@
         "YEAR": 2003,
         "JOURNAL": "Chinese Optics Letters",
         "VOLUME": "1",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -515,8 +473,8 @@
         "YEAR": 2006,
         "JOURNAL": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
         "VOLUME": "49",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -529,22 +487,8 @@
         "YEAR": 1944,
         "JOURNAL": "Science",
         "VOLUME": "99",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1190/tle36010043.1",
-        "TITLE": "A record of historical runoff events in annually laminated sediments of Lake Mondsee (Upper Austria)",
-        "AUTHOR": "Swierczynski (1, 3), T., Lauterbach (1), S., Dulski (1), P., (1), U. Frank, Naumann (2), R., Merz (3), B., Brauer (1), A.",
-        "YEAR": 2009,
-        "JOURNAL": "EGU General Assembly Conference Abstracts",
-        "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -557,8 +501,8 @@
         "YEAR": 2003,
         "JOURNAL": "Chinese Optics Letters",
         "VOLUME": "1",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -571,8 +515,8 @@
         "YEAR": 2020,
         "JOURNAL": "arXiv e-prints",
         "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -585,8 +529,8 @@
         "YEAR": 2018,
         "JOURNAL": "arXiv e-prints",
         "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -599,8 +543,8 @@
         "YEAR": 2019,
         "JOURNAL": "Astrobiology",
         "VOLUME": "19",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -613,8 +557,8 @@
         "YEAR": 2019,
         "JOURNAL": "Astrobiology",
         "VOLUME": "19",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -627,22 +571,8 @@
         "YEAR": 2016,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
         "VOLUME": "121",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1002/2016JE005128",
-        "TITLE": "Physical and Chemical Evolution of the Lunar Surface",
-        "AUTHOR": "\"OBrien, P.\", Byrne, S.",
-        "YEAR": 2019,
-        "JOURNAL": "AGU Fall Meeting Abstracts",
-        "VOLUME": "2019",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -655,22 +585,8 @@
         "YEAR": 2018,
         "JOURNAL": "Astrobiology",
         "VOLUME": "18",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PLANET": "Mars",
-        "PAPER_DOI": "10.1016/j.icarus.2014.10.034",
-        "TITLE": "Multi-instrument data analysis for interpretation of the Martian North polar layered deposits",
-        "AUTHOR": "Mirino, Melissa, Sefton-Nash, Elliot, Witasse, Olivier, Frigeri, Alessandro",
-        "YEAR": 2017,
-        "JOURNAL": "EGU General Assembly Conference Abstracts",
-        "VOLUME": "None",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     },
     {
@@ -683,8 +599,8 @@
         "YEAR": 2015,
         "JOURNAL": "Icarus",
         "VOLUME": "248",
-        "LOCATIONS": "nan,",
-        "LOC_COUNT": "0"
+        "LOCATIONS": NaN,
+        "LOC_COUNT": 0
       }
     }
   ]

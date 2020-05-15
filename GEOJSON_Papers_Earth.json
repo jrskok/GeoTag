@@ -12,7 +12,7 @@
         "JOURNAL": "Advances in Space Research",
         "VOLUME": "58",
         "LOCATIONS": "N85755RJ5+7R",
-        "LOC_COUNT": "1"
+        "LOC_COUNT": 1
       }
     },
     {
@@ -26,7 +26,7 @@
         "JOURNAL": "Journal of Human Performance in Extreme Environments",
         "VOLUME": "12",
         "LOCATIONS": "97877HG8+J6,97877GGR+M8,97877GGF+53",
-        "LOC_COUNT": "3"
+        "LOC_COUNT": 3
       }
     }
   ]
