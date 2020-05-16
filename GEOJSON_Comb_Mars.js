@@ -15,7 +15,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -40,7 +40,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -65,14 +65,14 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           323.568,
-          -35.581
+          -35.580999999999996
         ]
       }
     },
@@ -90,7 +90,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -115,7 +115,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -140,14 +140,14 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           343.341,
-          -31.417
+          -31.416999999999998
         ]
       }
     },
@@ -165,7 +165,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -190,7 +190,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -215,7 +215,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -240,7 +240,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -265,7 +265,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -290,7 +290,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -315,7 +315,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -340,7 +340,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -365,7 +365,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -390,14 +390,14 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           75.808,
-          20.751
+          20.750999999999998
         ]
       }
     },
@@ -415,7 +415,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -440,13 +440,13 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          350.7680000000001,
+          350.76800000000003,
           56.856
         ]
       }
@@ -465,14 +465,14 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.242,
-          52.63800000000001
+          52.638000000000005
         ]
       }
     },
@@ -490,7 +490,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -515,7 +515,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -540,7 +540,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -565,7 +565,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Tornabene, L. L., Pan, C., Rogers, D., Murchie, S. L.",
         "YEAR": 2012,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "117",
+        "VOLUME": 117,
         "LOCATIONS": "597MM962+2C, 595HFWP6+C2, 49P5CH99+J6, 59MH7VP4+2C, 597V368C+2C, 4CW5H8MR+6C, 5G6P6CCF+C6, 5H75PFQ7+J6, 5JH47J4J+RC, 5HC6FQ62+22, 5JG6M2PJ+2R, 4MW3HJFJ+JR, 6M5MQJGJ+2R, 5MPR6VW8+2R, 4PWCPM4C+CC, 7JGQQR25+C6, 7JGF6CFC+62, 9C8GVQ49+C6, 9F4QJ6QR+6R, 9QFQRRR5+CJ, 9Q7XHMH4+JR, 9V7HJ9W4+CC, 9RR6C393+6J"
       },
       "geometry": {
@@ -590,7 +590,7 @@ var locations = {
         "AUTHOR": "Skok, John R., Mustard, John F., Murchie, Scott L., Wyatt, Michael B., Ehlmann, Bethany L.",
         "YEAR": 2010,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "115",
+        "VOLUME": 115,
         "LOCATIONS": "7J79WW7W+6C, 7J4GG2R5+2J"
       },
       "geometry": {
@@ -615,7 +615,7 @@ var locations = {
         "AUTHOR": "Skok, John R., Mustard, John F., Murchie, Scott L., Wyatt, Michael B., Ehlmann, Bethany L.",
         "YEAR": 2010,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "115",
+        "VOLUME": 115,
         "LOCATIONS": "7J79WW7W+6C, 7J4GG2R5+2J"
       },
       "geometry": {
@@ -640,7 +640,7 @@ var locations = {
         "AUTHOR": "Skok, J. R., Mustard, J. F., Ehlmann, B. L., Milliken, R. E., Murchie, S. L.",
         "YEAR": 2010,
         "JOURNAL": "Nature Geoscience",
-        "VOLUME": "3",
+        "VOLUME": 3,
         "LOCATIONS": "6JX95984+C2"
       },
       "geometry": {
@@ -665,13 +665,13 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
         "YEAR": 2008,
         "JOURNAL": "Science",
-        "VOLUME": "322",
+        "VOLUME": 322,
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.55199999999998,
+          78.55199999999999,
           21.331
         ]
       }
@@ -690,7 +690,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
         "YEAR": 2008,
         "JOURNAL": "Science",
-        "VOLUME": "322",
+        "VOLUME": 322,
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26"
       },
       "geometry": {
@@ -715,7 +715,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
         "YEAR": 2008,
         "JOURNAL": "Science",
-        "VOLUME": "322",
+        "VOLUME": 322,
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26"
       },
       "geometry": {
@@ -740,7 +740,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
         "YEAR": 2008,
         "JOURNAL": "Science",
-        "VOLUME": "322",
+        "VOLUME": 322,
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26"
       },
       "geometry": {
@@ -765,7 +765,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Murchie, Scott L., Poulet, Francois, Bishop, Janice L., Brown, Adrian J., Calvin, Wendy M., Clark, Roger N., Des Marais, David J., Milliken, Ralph E., Roach, Leah H., Roush, Ted L., Swayze, Gregg A., Wray, James J.",
         "YEAR": 2008,
         "JOURNAL": "Science",
-        "VOLUME": "322",
+        "VOLUME": 322,
         "LOCATIONS": "7JHW8HJ2+CR, 7JCVGC47+26, 7JHW7GQ5+6J, 7JFR6CCQ+R6, 7JHWWCWH+26"
       },
       "geometry": {
@@ -790,7 +790,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -815,7 +815,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -840,7 +840,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -865,7 +865,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -890,7 +890,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -915,14 +915,14 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.24600000000002,
-          21.152
+          74.24600000000001,
+          21.151999999999997
         ]
       }
     },
@@ -940,7 +940,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -965,7 +965,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -990,7 +990,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1015,14 +1015,14 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           72.038,
-          15.771
+          15.770999999999999
         ]
       }
     },
@@ -1040,7 +1040,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1065,7 +1065,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1090,7 +1090,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1115,7 +1115,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1140,7 +1140,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1165,7 +1165,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1190,7 +1190,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1215,7 +1215,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1240,7 +1240,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1265,7 +1265,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1290,13 +1290,13 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.89399999999998,
+          71.89399999999999,
           17.07
         ]
       }
@@ -1315,7 +1315,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1340,14 +1340,14 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.169,
-          22.167
+          22.166999999999998
         ]
       }
     },
@@ -1365,7 +1365,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1390,7 +1390,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1415,7 +1415,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1440,7 +1440,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1465,7 +1465,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1490,7 +1490,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1515,7 +1515,7 @@ var locations = {
         "AUTHOR": "Ehlmann, Bethany L., Mustard, John F., Swayze, Gregg A., Clark, Roger N., Bishop, Janice L., Poulet, Francois, Des Marais, David J., Roach, Leah H., Milliken, Ralph E., Wray, James J., Barnouin-Jha, Olivier, Murchie, Scott L.",
         "YEAR": 2009,
         "JOURNAL": "Journal of Geophysical Research (Planets)",
-        "VOLUME": "114",
+        "VOLUME": 114,
         "LOCATIONS": "7JJV7369+26, 7JGG4467+26, 7J7J24MF+6J, 7JF7WRRJ+2R, 7JXM8823+C6, 7JHP562W+RC, 7JHVR4WJ+2C, 7J8JCGQ6+JR, 7JF7WVC5+2J, 7J7JQ2CQ+C6, 7J9H9V53+6J, 7JJP3J4J+22, 7JGM3MCP+2C, 7JF7VX5W+6R, 7JJPC7XC+JC, 7JHVX6Q8+62, 7JGG83HW+6C, 7JGG68C4+2R, 7JGMV7CM+C6, 7JG72PWX+R6, 7J9H3VCV+2J, 7JGGC73P+62, 7JJV5589+RJ, 7JF7QM64+22, 7J9H3WF3+6J, 7J8HQJR6+CR, 7JHJV744+2C, 7J9H7PWR+2R, 7J9V83CR+2R, 7JGG858Q+CJ"
       },
       "geometry": {
@@ -1523,6 +1523,506 @@ var locations = {
         "coordinates": [
           70.189,
           20.316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Northeast Sytris Basin",
+        "DETAILS": "FRT000199C7",
+        "TYPE": "CRISM",
+        "ID": "7J9RJJ22+22",
+        "PAPERS": "10.1016/j.icarus.2019.113608",
+        "PAPER_DOI": "10.1016/j.icarus.2019.113608",
+        "TITLE": "Multistage ice-damming of volcanic flows and fluvial systems in Northeast Syrtis Major",
+        "AUTHOR": "Matherne, Connor, Skok, J. R., Mustard, J. F., Karunatillake, Suniti, Doran, Peter",
+        "YEAR": 2020,
+        "JOURNAL": "Icarus",
+        "VOLUME": 340,
+        "LOCATIONS": "7J9RJJ22+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6,
+          17.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_022915_2070",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "7RR4WRXV+JJ",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.844,
+          26.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_013157_2015",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "7RHFFPXQ+66",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.738,
+          21.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "PSP_004046_2080",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "7RV5F6R6+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21,
+          27.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_037802_1880",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "6RWP4P22+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7,
+          8.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "PSP_005984_1850",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "6RQR2C22+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.4,
+          5.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_014278_2050",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "7RP5PJ62+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6,
+          24.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_028466_ 1955",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "7V746FC2+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.45,
+          15.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_012524_1855",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "6RQMH3JC+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07,
+          5.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "ESP_034967_1885",
+        "DETAILS": "NAN",
+        "TYPE": "HiRISE",
+        "ID": "6RWFF5JR+22",
+        "PAPERS": "10.1038/srep43177",
+        "PAPER_DOI": "10.1038/srep43177",
+        "TITLE": "A record of igneous evolution in Elysium, a major martian volcanic province",
+        "AUTHOR": "Susko, David, Karunatillake, Suniti, Kodikara, Gayantha, Skok, J. R., Wray, James, Heldmann, Jennifer, Cousin, Agnes, Judice, Taylor",
+        "YEAR": 2017,
+        "JOURNAL": "Scientific Reports",
+        "VOLUME": 7,
+        "LOCATIONS": "7RR4WRXV+JJ,7RHFFPXQ+66,7RV5F6R6+22,6RWP4P22+22,6RQR2C22+22,7RP5PJ62+22,7V746FC2+22,6RQMH3JC+22,6RWFF5JR+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.19,
+          8.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Nili Tholus",
+        "DETAILS": "NAN",
+        "TYPE": "Point",
+        "ID": "6JX9582J+22",
+        "PAPERS": "10.1002/2015JE004795",
+        "PAPER_DOI": "10.1002/2015JE004795",
+        "TITLE": "The geological history of Nili Patera, Mars",
+        "AUTHOR": "Fawdon, P., Skok, J. R., Balme, M. R., Vye-Brown, C. L., Rothery, D. A., Jordan, C. J.",
+        "YEAR": 2015,
+        "JOURNAL": "Journal of Geophysical Research (Planets)",
+        "VOLUME": 120,
+        "LOCATIONS": "6JX9582J+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.33,
+          9.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Examples of MI images",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "5VQQCFPH+2J",
+        "PAPERS": "10.1016/j.icarus.2013.10.001",
+        "PAPER_DOI": "10.1016/j.icarus.2013.10.001",
+        "TITLE": "A martian case study of segmenting images automatically for granulometry and sedimentology, Part 1: Algorithm",
+        "AUTHOR": "Karunatillake, Suniti, McLennan, Scott M., Herkenhoff, Kenneth E., Husch, Jonathan M., Hardgrove, Craig, Skok, J. R.",
+        "YEAR": 2014,
+        "JOURNAL": "Icarus",
+        "VOLUME": 229,
+        "LOCATIONS": "5VQQCFPH+2J, 6CCP3F2R+RC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.479,
+          -14.565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Examples of MI images",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "6CCP3F2R+RC",
+        "PAPERS": "10.1016/j.icarus.2013.10.001",
+        "PAPER_DOI": "10.1016/j.icarus.2013.10.001",
+        "TITLE": "A martian case study of segmenting images automatically for granulometry and sedimentology, Part 1: Algorithm",
+        "AUTHOR": "Karunatillake, Suniti, McLennan, Scott M., Herkenhoff, Kenneth E., Husch, Jonathan M., Hardgrove, Craig, Skok, J. R.",
+        "YEAR": 2014,
+        "JOURNAL": "Icarus",
+        "VOLUME": 229,
+        "LOCATIONS": "5VQQCFPH+2J, 6CCP3F2R+RC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5089999999999995,
+          -1.9480000000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Trench activity at Gusev",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "5VQQCFPH+2J",
+        "PAPERS": "10.1016/j.icarus.2013.07.018",
+        "PAPER_DOI": "10.1016/j.icarus.2013.07.018",
+        "TITLE": "Does martian soil release reactive halogens to the atmosphere?",
+        "AUTHOR": "Karunatillake, Suniti, Zhao, Yu-Yan Sara, McLennan, Scott M., Skok, J. R., Button, Nicole E.",
+        "YEAR": 2013,
+        "JOURNAL": "Icarus",
+        "VOLUME": 226,
+        "LOCATIONS": "5VQQCFPH+2J, 5VQQCG79+66, 6CCP3F2R+RC, 6CCP3F4H+2J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.479,
+          -14.565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Disturbed soil sample at Gusev",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "5VQQCG79+66",
+        "PAPERS": "10.1016/j.icarus.2013.07.018",
+        "PAPER_DOI": "10.1016/j.icarus.2013.07.018",
+        "TITLE": "Does martian soil release reactive halogens to the atmosphere?",
+        "AUTHOR": "Karunatillake, Suniti, Zhao, Yu-Yan Sara, McLennan, Scott M., Skok, J. R., Button, Nicole E.",
+        "YEAR": 2013,
+        "JOURNAL": "Icarus",
+        "VOLUME": 226,
+        "LOCATIONS": "5VQQCFPH+2J, 5VQQCG79+66, 6CCP3F2R+RC, 6CCP3F4H+2J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.518,
+          -14.587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Sol 236 of Meridiani soil sample",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "6CCP3F2R+RC",
+        "PAPERS": "10.1016/j.icarus.2013.07.018",
+        "PAPER_DOI": "10.1016/j.icarus.2013.07.018",
+        "TITLE": "Does martian soil release reactive halogens to the atmosphere?",
+        "AUTHOR": "Karunatillake, Suniti, Zhao, Yu-Yan Sara, McLennan, Scott M., Skok, J. R., Button, Nicole E.",
+        "YEAR": 2013,
+        "JOURNAL": "Icarus",
+        "VOLUME": 226,
+        "LOCATIONS": "5VQQCFPH+2J, 5VQQCG79+66, 6CCP3F2R+RC, 6CCP3F4H+2J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5089999999999995,
+          -1.9480000000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "MI on Sol 10 of undisturbed soil at Meridiani",
+        "DETAILS": "NAN",
+        "TYPE": "MER",
+        "ID": "6CCP3F4H+2J",
+        "PAPERS": "10.1016/j.icarus.2013.07.018",
+        "PAPER_DOI": "10.1016/j.icarus.2013.07.018",
+        "TITLE": "Does martian soil release reactive halogens to the atmosphere?",
+        "AUTHOR": "Karunatillake, Suniti, Zhao, Yu-Yan Sara, McLennan, Scott M., Skok, J. R., Button, Nicole E.",
+        "YEAR": 2013,
+        "JOURNAL": "Icarus",
+        "VOLUME": 226,
+        "LOCATIONS": "5VQQCFPH+2J, 5VQQCG79+66, 6CCP3F2R+RC, 6CCP3F4H+2J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.521,
+          -1.945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Felsic materials in Noachis Terra.",
+        "DETAILS": "NAN",
+        "TYPE": "Point",
+        "ID": "5H966J22+22",
+        "PAPERS": "10.1038/ngeo1994",
+        "PAPER_DOI": "10.1038/ngeo1994",
+        "TITLE": "Prolonged magmatic activity on Mars inferred from the detection of felsic rocks",
+        "AUTHOR": "Wray, James J., Hansen, Sarah T., Dufek, Josef, Swayze, Gregg A., Murchie, Scott L., Seelos, Frank P., Skok, John R., Irwin, Rossman P., Ghiorso, Mark S.",
+        "YEAR": 2013,
+        "JOURNAL": "Nature Geoscience",
+        "VOLUME": 6,
+        "LOCATIONS": "5H966J22+22, 5HC3C4R2+22, 6JW9V76J+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6,
+          -22.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "Two samples of a felsic Noachis Terra crater floor",
+        "DETAILS": "NAN",
+        "TYPE": "Point",
+        "ID": "5HC3C4R2+22",
+        "PAPERS": "10.1038/ngeo1994",
+        "PAPER_DOI": "10.1038/ngeo1994",
+        "TITLE": "Prolonged magmatic activity on Mars inferred from the detection of felsic rocks",
+        "AUTHOR": "Wray, James J., Hansen, Sarah T., Dufek, Josef, Swayze, Gregg A., Murchie, Scott L., Seelos, Frank P., Skok, John R., Irwin, Rossman P., Ghiorso, Mark S.",
+        "YEAR": 2013,
+        "JOURNAL": "Nature Geoscience",
+        "VOLUME": 6,
+        "LOCATIONS": "5H966J22+22, 5HC3C4R2+22, 6JW9V76J+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.1,
+          -21.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLANET": "Mars",
+        "NAME": "The Nili Patera caldera floor",
+        "DETAILS": "NAN",
+        "TYPE": "Point",
+        "ID": "6JW9V76J+22",
+        "PAPERS": "10.1038/ngeo1994",
+        "PAPER_DOI": "10.1038/ngeo1994",
+        "TITLE": "Prolonged magmatic activity on Mars inferred from the detection of felsic rocks",
+        "AUTHOR": "Wray, James J., Hansen, Sarah T., Dufek, Josef, Swayze, Gregg A., Murchie, Scott L., Seelos, Frank P., Skok, John R., Irwin, Rossman P., Ghiorso, Mark S.",
+        "YEAR": 2013,
+        "JOURNAL": "Nature Geoscience",
+        "VOLUME": 6,
+        "LOCATIONS": "5H966J22+22, 5HC3C4R2+22, 6JW9V76J+22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.28,
+          8.86
         ]
       }
     }

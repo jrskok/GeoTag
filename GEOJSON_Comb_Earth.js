@@ -15,13 +15,13 @@ var locations = {
         "AUTHOR": "Heldmann, Jennifer L., Colaprete, Anthony, Elphic, Richard C., Lim, Darlene, Deans, Matthew, Cook, Amanda, Roush, Ted, Skok, J. R., Button, Nicole E., Karunatillake, S., Stoker, Carol, Marquez, Jessica J., Shirley, Mark, Kobayashi, Linda, Lees, David, Bresina, John, Hunt, Rusty",
         "YEAR": 2016,
         "JOURNAL": "Advances in Space Research",
-        "VOLUME": "58",
+        "VOLUME": 58,
         "LOCATIONS": "N85755RJ5+7R"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.190414,
+          -116.19041399999999,
           35.18072
         ]
       }
@@ -40,7 +40,7 @@ var locations = {
         "AUTHOR": "Cohen, B., Lim, D., Young, K., Brunner, A., Elphic, R., Horne, A., Kerrigan, M., Osinaki, G., Skok, J.R., Squyres, S., Saint-Jacques, D., Heldmann, J.",
         "YEAR": 2015,
         "JOURNAL": "Journal of Human Performance in Extreme Environments",
-        "VOLUME": "12",
+        "VOLUME": 12,
         "LOCATIONS": "97877HG8+J6,97877GGR+M8,97877GGF+53"
       },
       "geometry": {
@@ -65,14 +65,14 @@ var locations = {
         "AUTHOR": "Cohen, B., Lim, D., Young, K., Brunner, A., Elphic, R., Horne, A., Kerrigan, M., Osinaki, G., Skok, J.R., Squyres, S., Saint-Jacques, D., Heldmann, J.",
         "YEAR": 2015,
         "JOURNAL": "Journal of Human Performance in Extreme Environments",
-        "VOLUME": "12",
+        "VOLUME": 12,
         "LOCATIONS": "97877HG8+J6,97877GGR+M8,97877GGF+53"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.459218,
-          56.276735
+          56.276734999999995
         ]
       }
     },
@@ -90,7 +90,7 @@ var locations = {
         "AUTHOR": "Cohen, B., Lim, D., Young, K., Brunner, A., Elphic, R., Horne, A., Kerrigan, M., Osinaki, G., Skok, J.R., Squyres, S., Saint-Jacques, D., Heldmann, J.",
         "YEAR": 2015,
         "JOURNAL": "Journal of Human Performance in Extreme Environments",
-        "VOLUME": "12",
+        "VOLUME": 12,
         "LOCATIONS": "97877HG8+J6,97877GGR+M8,97877GGF+53"
       },
       "geometry": {
