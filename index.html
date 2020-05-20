@@ -1,9 +1,146 @@
+
 <!DOCTYPE html>
 <html>
-<body>
+    
+<head>
+        <meta charset="utf-8"/>
+        <title>J.R. Skok Science GeoTag Mars</title>
+        <meta content="https://uploads-ssl.webflow.com/5a621bf894d1cf000155a6d3/5d00e57d2bca9350b27496d6_opmbuilder_opm_mars_shaded_colour_mola_elevation_20190612133550.png" property="og:image"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <link href="https://uploads-ssl.webflow.com/5a5a706fa0eb5000019beb68/css/openplanetary.webflow.5877d141d.css" rel="stylesheet" type="text/css"/>
+        <link href="https://raw.githubusercontent.com/JRGeoTag/JRGeoTag/master/JR_logo.jpg" rel="shortcut icon" type="image/x-icon"/>
+        <link href="https://raw.githubusercontent.com/JRGeoTag/JRGeoTag/master/JR_logo.jpg" rel="apple-touch-icon"/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.16.0/themes/prism.css" />
+        <!-- Scripts for table-->
+        <script src="https://code.jquery.com/jquery-1.12.3.js"></script>
+        <link data-require="datatables@1.10.12" data-semver="1.10.12" rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" />
+        <script data-require="datatables@1.10.12" data-semver="1.10.12" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script>
+        <!-- End Scripts for table-->
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+</head>
+    
+<body>
+    <div data-collapse="medium" data-animation="default" data-duration="400"              class="navigation-bar dark w-nav">
+        <a href="https://jrskok.com" class="brand-link left-spacing w-clearfix w-nav-brand"><img src="https://raw.githubusercontent.com/JRGeoTag/JRGeoTag/master/JR_logo.jpg" width="50" alt="" class="image-2"/></a>
+        
+        <nav role="navigation" class="navigation-menu w-nav-menu">
+            <a href="https://jrskok.com/" target="_blank" class="navigation-link white w-nav-link">J.R. Skok</a>
+        </nav>
+    
+    </div>
+    <div class="section-31"></div>
+    <div class="section-33">
+        <div class="container-35 w-container">  
+            <div class="opm-navbar">
+                <a href="https://jrskok.com/" class="opm-nav-link">J.R. Skok</a>     
+            </div>
+            <!--Map Title-->
+            <h1 class="heading-27">Mars Science GeoTag</h1>
+   
+            <!--Mars Map with points-->
+            <div class="map-container"><div id="map" class="map-home"></div></div>
+    
+            <h4>Welcome to Mars Science GeoTag!</h4>
+            This is my rough attempt to merge the benefits of Google Earth and Google Scholar so that we can geographically explore the rich collection of 
+            Mars research. Above is a map of the locations mentioned in the papers listed below. Each point on the map includes the title (with link to the
+            full paper), authors and a brief bit about the location. So far, I have started mostly with the Mars papers that I have worked on. The main challenge
+            is that there is no database or convention for mentioning locations in a paper. So, for now, we must manually go through the papers and identify the targets
+            or images mentioned.  <br><br>
+            If you would like your papers included in the map, please send me the paper DOI and list of locations (template available on request) and I will add them. 
+            Please check back often for more papers and functionality and please contact me if you are interested in helping out with data gathering or programming. 
+            <br><br>
+            J.R. Skok
+
+            <br> <br> <br>
+
+            <h3>List of Entered Papers:</h3>
+            <!--Table of Papers from Json-->
+            <table id="PaperList" class="display" cellspacing="0" width="100%">
+                <thead>
+                  <tr>
+                    <th>_____TITLE_____</th>
+                    <th>_____AUTHOR_____</th>
+                    <th>YEAR</th>
+                    <th>JOURNAL</th>
+                    <th>DOI</th>
+                    <th>#LOCATIONS</th>
+                  </tr>
+                </thead>
+                </table>
+
+
+                <a href="https://www.openplanetary.org/opm/basemaps" >Basemaps provided by OpenPlanetary.</a>  
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/gh/jrskok/GeoTag/GEOJSON_Comb_Mars.js" type="text/javascript"></script>
+    
+
+    <script src="/js/leaflet-0.7.2/leaflet.ajax.min.js"></script>
+    <script>src="https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/dist/jquery.min.js"</script>
+    <script src="https://uploads-ssl.webflow.com/5a5a706fa0eb5000019beb68/js/webflow.53f5eb515.js" type="text/javascript"></script>
+    <script>
+
+        var initMap = function(){
+	    var map = L.map('map').setView([0,180], 1);
+        var opmAttribution = '<a href="https://www.openplanetary.org/opm" target="blank">OpenPlanetaryMap</a>'    
+	    var layer = new L.tileLayer('http://s3-eu-west-1.amazonaws.com/whereonmars.cartodb.net/mola-color/{z}/{x}/{y}.png', {
+        maxNativeZoom: 9,
+        zoom: 3,
+        tms: true,
+        attribution: opmAttribution,
+        }).addTo(map).setZIndex(0);
+        //map.scrollWheelZoom.disable()
+            
+        L.geoJSON(locations, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng);
+        },
+            onEachFeature: onEachFeature
+        }).addTo(map);   
+	     
+        function onEachFeature(feature, layer) {  
+            var popupContent = "<p>Title:<a target=^_blank^ rel=^noopener noreferrer^ href=https://doi.org/"+feature.properties.PAPER_DOI+"> "+feature.properties.TITLE+"</a> <br/>First Author: "+ feature.properties.AUTHOR + " <br/> Lat, Long: "+feature.geometry.coordinates[1].toFixed(2)+", "+feature.geometry.coordinates[0].toFixed(2)+"<br/>DOI: "+feature.properties.PAPERS+"<br/>TYPE: "+feature.properties.TYPE+"<br/>NAME: "+feature.properties.NAME+"</p>";
+        if (feature.properties && feature.properties.popupContent) {
+                popupContent += feature.properties.popupContent;
+        }
+            layer.bindPopup(popupContent);
+        } 
+        }
+        initMap();
+        $('.leaflet-control-attribution').hide()
+
+    </script>
+  
+
+
+
+    <script>
+    // Table Cade
+    ( function($) {
+    $(document).ready(function() {
+    $('#PaperList').DataTable( {
+        "ajax":{
+        "url":"https://raw.githubusercontent.com/jrskok/GeoTag/master/GEOJSON_Papers_Mars.json",
+        "dataSrc": "features"
+        },
+        "columns": [
+        { data: "properties.TITLE" },
+        { data: "properties.AUTHOR" },
+        { data: "properties.YEAR" },
+        { data: "properties.JOURNAL" },
+        { data: "properties.PAPER_DOI" },
+        { data: "properties.LOC_COUNT" },
+        ]
+        });
+    }); 
+    } ) ( jQuery );
+    </script>
+
 
 </body>
 </html>
+
+    
